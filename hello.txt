@@ -1,2 +1,3 @@
-My first DevOps experiment.
-Learning Git version control.
+Hello DevOps
+This is my first Git experiment
+Git version control is working
